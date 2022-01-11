@@ -1,17 +1,68 @@
-.h1 {
-    color: #69a0ff;
-    font-family: Orbitron;
+.about {
+    text-align: center;
+    border: 10px solid #2190ff;
+    padding: 40px;
+	margin:20px;
+
 }
 
-.h2 {
-    color: #ff6969;
-    font-family: Orbitron;
+.profile {
+    padding: 50px;
+    border: 10px solid #2190ff;
+    margin:20px;
 }
 
-.p {
-    font-family: Gemunu Libre;
+.all {
+    display: flex;
+    justify-content: space-around;
+    margin: 60px;
+    color: #000000;
+    font-family: 'Itim', cursive;
+
 }
 
-.Li {
-    font-family: Gemunu Libre;
+.socials {
+    color: #000000;
+    padding: 20px;
+    width: 1253px;
+    font-family: 'Itim', cursive;
+      display: flex;
+    justify-content: center;
+}
+
+.bottom {
+   text-align:center;
+    justify-content: center;
+    border: 10px solid #2190ff;
+    align-items:center;
+}
+
+.picture {
+    display: flex;
+    justify-content: flex-end;
+}
+
+img {
+    width: 550px;
+    height: 455px;
+    padding: 10px;
+    margin: 30px;
+}
+
+.small {
+    width: 350px;
+    height: 300px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul,
+p {
+    font-size: 20px;
+}
+
+li {
+    padding: 15px;
 }
