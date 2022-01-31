@@ -1,0 +1,28 @@
+.title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Itim', cursive;
+}
+
+.One {
+    display: flex;
+    justify-content: center;
+
+}
+
+.Two {
+    display: flex;
+    justify-content: center;
+}
+
+.mother {
+    border: 10px solid #2190ff;
+    padding: 50px;
+
+}
+
+img {
+    width: 280px;
+    padding: 5px;
+    height: 300px;
+}
